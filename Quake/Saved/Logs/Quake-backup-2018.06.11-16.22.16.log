@@ -1,0 +1,1191 @@
+﻿Log file open, 06/11/18 16:07:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Quake
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-147083010) SRandInit(-147083010).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.318694
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.293s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Robs-Blade (192.168.86.34:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.11-20.07.59:718][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-20.07.59:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.11-20.07.59:734][  0]LogInit: Computer: ROBS-BLADE
+[2018.06.11-20.07.59:734][  0]LogInit: User: RobsBlade
+[2018.06.11-20.07.59:734][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.11-20.07.59:734][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2018.06.11-20.07.59:734][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.11-20.07.59:734][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.11-20.07.59:734][  0]LogMemory: Process Physical Memory: 279.39 MB used, 279.39 MB peak
+[2018.06.11-20.07.59:734][  0]LogMemory: Process Virtual Memory: 269.28 MB used, 269.28 MB peak
+[2018.06.11-20.07.59:734][  0]LogMemory: Physical Memory: 5493.11 MB used,  10783.06 MB free, 16276.17 MB total
+[2018.06.11-20.07.59:734][  0]LogMemory: Virtual Memory: 4840.80 MB used,  10783.06 MB free, 134217728.00 MB total
+[2018.06.11-20.07.59:760][  0]LogInit: Using OS detected language (en-US).
+[2018.06.11-20.07.59:760][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.11-20.07.59:763][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.11-20.08.00:295][  0]LogStreaming: Display: Took  0.535s to EndInitTextLocalization.
+[2018.06.11-20.08.00:295][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.11-20.08.00:355][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.11-20.08.00:355][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.11-20.08.00:590][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.11-20.08.00:644][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.06.11-20.08.00:644][  0]LogD3D11RHI:       6052/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.11-20.08.00:656][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.06.11-20.08.00:656][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.11-20.08.00:658][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.11-20.08.00:658][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.11-20.08.00:658][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.11-20.08.00:675][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.11-20.08.00:676][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.11-20.08.00:676][  0]LogWindows: EnumDisplayDevices:
+[2018.06.11-20.08.00:676][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.06.11-20.08.00:676][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.11-20.08.00:676][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.11-20.08.00:676][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.06.11-20.08.00:676][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.11-20.08.00:676][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.06.11-20.08.00:676][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.11-20.08.00:677][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.11-20.08.00:677][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.06.11-20.08.00:709][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.11-20.08.00:709][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.11-20.08.00:709][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.11-20.08.00:729][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.11-20.08.00:729][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Intermediate/Shaders/WorkingDirectory/4376/).
+[2018.06.11-20.08.00:730][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rob's Blade/AppData/Local/Temp/UnrealShaderWorkingDir/1FC721C44CC77538C369FBBAE08FF20F/'.
+[2018.06.11-20.08.00:984][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.11-20.08.00:998][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.11-20.08.01:024][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.11-20.08.01:041][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.11-20.08.01:058][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.11-20.08.01:074][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.11-20.08.01:090][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.11-20.08.01:106][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.11-20.08.01:115][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.11-20.08.01:129][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.11-20.08.01:143][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.11-20.08.01:156][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.11-20.08.01:170][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.11-20.08.01:185][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.11-20.08.01:199][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.11-20.08.01:232][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.11-20.08.01:232][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.11-20.08.01:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.11-20.08.01:248][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.11-20.08.01:287][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.11-20.08.01:299][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.11-20.08.01:315][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.11-20.08.01:329][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.11-20.08.01:345][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.11-20.08.01:360][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.11-20.08.01:360][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.11-20.08.01:494][  0]LogXGEController: Cleaning working directory: C:/Users/Rob's Blade/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.11-20.08.01:494][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.11-20.08.01:494][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.11-20.08.01:494][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.11-20.08.02:315][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.11-20.08.02:396][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Rob's Blade/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-20.08.02:396][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rob's Blade/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.11-20.08.02:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.11-20.08.02:396][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.11-20.08.02:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.11-20.08.02:396][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.11-20.08.02:415][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.11-20.08.02:428][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rob's Blade/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.11-20.08.02:428][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.11-20.08.02:428][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.11-20.08.02:442][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.11-20.08.02:443][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.11-20.08.02:443][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-20.08.02:443][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-20.08.02:583][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.06.11-20.08.02:964][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-20.08.03:151][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.11-20.08.03:154][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.11-20.08.03:155][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.11-20.08.03:155][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.11-20.08.03:155][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.11-20.08.03:155][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.11-20.08.03:193][  0]LogNetVersion: Quake , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1851811319)
+[2018.06.11-20.08.03:796][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.129372 seconds
+[2018.06.11-20.08.03:805][  0]LogUObjectArray: 36735 objects as part of root set at end of initial load.
+[2018.06.11-20.08.03:805][  0]LogUObjectAllocator: 7528584 out of 0 bytes used by permanent object pool.
+[2018.06.11-20.08.03:805][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.11-20.08.06:093][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.11-20.08.06:134][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.11-20.08.06:603][  0]SourceControl: Source control is disabled
+[2018.06.11-20.08.06:603][  0]SourceControl: Source control is disabled
+[2018.06.11-20.08.06:622][  0]SourceControl: Source control is disabled
+[2018.06.11-20.08.06:643][  0]SourceControl: Source control is disabled
+[2018.06.11-20.08.07:300][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.11-20.08.07:553][  0]LogOcInput: OculusInput pre-init called
+[2018.06.11-20.08.07:714][  0]LogEngine: Initializing Engine...
+[2018.06.11-20.08.07:716][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.11-20.08.07:718][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-20.08.07:718][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.11-20.08.08:097][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.11-20.08.08:118][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.11-20.08.08:142][  0]LogInit: FAudioDevice initialized.
+[2018.06.11-20.08.08:257][  0]LogDerivedDataCache: Saved boot cache 0.11s 74MB C:/Users/Rob's Blade/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-20.08.08:320][  0]LogInit: Texture streaming: Enabled
+[2018.06.11-20.08.08:360][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.11-20.08.08:360][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={5CEA3257-473A-CBAD-31A8-5A8CDF5A0C71}
+[2018.06.11-20.08.08:392][  0]LogInit: Transaction tracking system initialized
+[2018.06.11-20.08.08:452][  0]BlueprintLog: New page: Editor Load
+[2018.06.11-20.08.08:605][  0]LocalizationService: Localization service is disabled
+[2018.06.11-20.08.08:782][  0]LogConsoleResponse: Display: 
+[2018.06.11-20.08.09:028][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.11-20.08.09:028][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.11-20.08.09:028][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.11-20.08.09:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-20.08.09:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.11-20.08.09:038][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/' took 0.02s
+[2018.06.11-20.08.09:604][  0]SourceControl: Source control is disabled
+[2018.06.11-20.08.09:604][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-20.08.09:604][  0]LightingResults: New page: Lighting Build
+[2018.06.11-20.08.09:608][  0]MapCheck: New page: Map Check
+[2018.06.11-20.08.09:608][  0]LightingResults: New page: Lighting Build
+[2018.06.11-20.08.09:671][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e51319d00, Size=536, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.06.11-20.08.09:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e33a5cea0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.06.11-20.08.09:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3374bf38, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.11-20.08.09:703][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e512e5c20, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.06.11-20.08.09:725][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e33739d00, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.06.11-20.08.09:789][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e51319d00, Size=536
+[2018.06.11-20.08.09:790][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e333d1f80, Size=536, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_3:ExecuteUbergraph_GameInfoInstance
+[2018.06.11-20.08.09:790][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e33a5cea0, Size=80
+[2018.06.11-20.08.09:790][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e33376de0, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_0:ExecuteUbergraph_HostMenu
+[2018.06.11-20.08.09:791][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e3374bf38, Size=40
+[2018.06.11-20.08.09:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3374bf38, Size=40, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
+[2018.06.11-20.08.09:791][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e512e5c20, Size=104
+[2018.06.11-20.08.09:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3330bba0, Size=104, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_3:ExecuteUbergraph_OptionsMenu
+[2018.06.11-20.08.09:792][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e33739d00, Size=608
+[2018.06.11-20.08.09:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e333d1a80, Size=608, Default__ServerMenu_C Function /Engine/Transient.REINST_ServerMenu_C_4:ExecuteUbergraph_ServerMenu
+[2018.06.11-20.08.09:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3d344900, Size=536, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.06.11-20.08.09:831][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c7215d0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.06.11-20.08.09:833][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3374a6b0, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.11-20.08.09:836][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c7a89c0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.06.11-20.08.09:840][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c75e980, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.06.11-20.08.09:865][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c74cfe0, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.11-20.08.09:867][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e3c74cfe0, Size=32
+[2018.06.11-20.08.09:867][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c74cfe0, Size=32, MainMenu_C_0 Function /Engine/Transient.REINST_MainMenu_C_12:ExecuteUbergraph_MainMenu
+[2018.06.11-20.08.09:868][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c74d800, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.11-20.08.10:030][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.08.10:033][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-20.08.10:051][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e333d1f80, Size=536
+[2018.06.11-20.08.10:051][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e33376de0, Size=80
+[2018.06.11-20.08.10:051][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e3374bf38, Size=40
+[2018.06.11-20.08.10:051][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e3330bba0, Size=104
+[2018.06.11-20.08.10:051][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e333d1a80, Size=608
+[2018.06.11-20.08.10:051][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e3c74cfe0, Size=32
+[2018.06.11-20.08.10:052][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-20.08.10:119][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.654ms to complete.
+[2018.06.11-20.08.10:119][  0]LogFileHelpers: Loading map 'MainMenu' took 0.516
+[2018.06.11-20.08.10:292][  0]LogCollectionManager: Loaded 0 collections in 0.001807 seconds
+[2018.06.11-20.08.10:342][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rob's Blade/Documents/Unreal Projects/Quake/Saved/Collections/' took 0.01s
+[2018.06.11-20.08.10:342][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/Developers/RobsBlade/Collections/' took 0.01s
+[2018.06.11-20.08.10:342][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/Collections/' took 0.01s
+[2018.06.11-20.08.10:342][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.11-20.08.10:357][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 2454 classes and 561 folders.
+[2018.06.11-20.08.10:367][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.11-20.08.10:441][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.11-20.08.10:451][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.11-20.08.10:508][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.11-20.08.10:508][  0]LogLoad: (Engine Initialization) Total time: 14.35 seconds
+[2018.06.11-20.08.10:508][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.11-20.08.10:526][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.11-20.08.10:550][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.11-20.08.10:554][  0]LogSlate: Took 0.000630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.11-20.08.10:557][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.11-20.08.10:564][  0]LogSlate: Took 0.000704 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.11-20.08.10:697][  1]LogAssetRegistry: Asset discovery search completed in 8.1373 seconds
+[2018.06.11-20.08.10:702][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.11-20.08.10:702][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.06.11-20.08.10:731][  2]LogRenderer: Reallocating scene render targets to support 664x352 Format 10 NumSamples 1 (Frame:1).
+[2018.06.11-20.08.11:547][ 44]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-20.08.13:246][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-20.08.13:357][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e5e2aa610, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.11-20.08.13:369][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e5e2aa610, Size=72
+[2018.06.11-20.08.13:369][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e5e08efc0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.11-20.08.13:376][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e5e52a9d0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.11-20.08.13:393][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c77ce00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.11-20.08.13:404][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e3c77ce00, Size=256
+[2018.06.11-20.08.13:404][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c77ce00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_17:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.11-20.08.13:407][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e3c77da00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.11-20.08.13:477][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6e29a800, Size=688, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.06.11-20.08.13:491][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6e29a800, Size=688
+[2018.06.11-20.08.13:491][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6e29a800, Size=688, Default__0_Base_C Function /Engine/Transient.REINST_0_Base_C_19:ExecuteUbergraph_0_Base
+[2018.06.11-20.08.13:503][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6e206800, Size=688, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.06.11-20.08.13:513][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6e207700, Size=656, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.06.11-20.08.13:515][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6e1ce980, Size=640, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.06.11-20.08.13:539][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e350c9af0, Size=4, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.06.11-20.08.13:552][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6e1bffa0, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.06.11-20.08.13:559][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6e19f040, Size=192, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.06.11-20.08.13:573][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e624ab240, Size=320, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.08.13:641][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e350c9af0, Size=4
+[2018.06.11-20.08.13:641][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e350c9af0, Size=4, Default__ConnectedPlayer_C Function /Engine/Transient.REINST_ConnectedPlayer_C_7:ExecuteUbergraph_ConnectedPlayer
+[2018.06.11-20.08.13:641][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6e19f040, Size=192
+[2018.06.11-20.08.13:641][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e625af040, Size=192, Default__GameSettings_C Function /Engine/Transient.REINST_GameSettings_C_8:ExecuteUbergraph_GameSettings
+[2018.06.11-20.08.13:642][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e624ab240, Size=320
+[2018.06.11-20.08.13:642][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e624ab240, Size=320, Default__LobbyMenu_C Function /Engine/Transient.REINST_LobbyMenu_C_9:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.08.13:643][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6e1ce980, Size=640
+[2018.06.11-20.08.13:643][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e62575d00, Size=640, Default__LobbyPC_C Function /Engine/Transient.REINST_LobbyPC_C_21:ExecuteUbergraph_LobbyPC
+[2018.06.11-20.08.13:643][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6e1bffa0, Size=32
+[2018.06.11-20.08.13:643][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e62611000, Size=32, Default__PlayerButton_C Function /Engine/Transient.REINST_PlayerButton_C_10:ExecuteUbergraph_PlayerButton
+[2018.06.11-20.08.13:644][143]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6e207700, Size=656
+[2018.06.11-20.08.13:644][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6266f700, Size=656, Default__LobbyGM_C Function /Engine/Transient.REINST_LobbyGM_C_22:ExecuteUbergraph_LobbyGM
+[2018.06.11-20.08.13:695][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e5e2068e0, Size=4, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.06.11-20.08.13:703][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e62b3ea40, Size=192, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.06.11-20.08.13:710][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e31a45d00, Size=320, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.08.13:717][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e62ac7380, Size=640, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.06.11-20.08.13:719][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e62a9b820, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.06.11-20.08.13:725][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e62a77a00, Size=656, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.06.11-20.08.14:031][143]LogSkeletalMesh: Skeletal Mesh found in DDC [5.080500ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.06.11-20.08.14:050][143]LogSkeletalMesh: Skeletal Mesh found in DDC [6.350625ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.06.11-20.08.14:481][143]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.06.11-20.08.14:966][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e453ad988, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.11-20.08.14:968][143]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e453ad980, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.11-20.08.16:962][143]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.11-20.08.34:624][553]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.11-20.08.34:661][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.06.11-20.08.34:662][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.11-20.08.34:662][553]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.06.11-20.08.34:662][553]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.06.11-20.08.34:663][553]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.06.11-20.08.34:663][553]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.06.11-20.08.34:663][553]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.06.11-20.08.34:663][553]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.06.11-20.08.34:677][553]PIE: New page: PIE session: MainMenu (Jun 11, 2018, 12:08:34 PM)
+[2018.06.11-20.08.34:677][553]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2018.06.11-20.08.34:678][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000748s)
+[2018.06.11-20.08.34:679][553]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.08.34:679][553]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2018.06.11-20.08.34:679][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.001929s)
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6e29a800, Size=688
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e3c77ce00, Size=256
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e5e08efc0, Size=72
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6266f700, Size=656
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e62575d00, Size=640
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e350c9af0, Size=4
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e62611000, Size=32
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e625af040, Size=192
+[2018.06.11-20.08.34:715][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e624ab240, Size=320
+[2018.06.11-20.08.34:721][553]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.11-20.08.34:737][553]LogInit: FAudioDevice initialized.
+[2018.06.11-20.08.34:887][553]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e486e8d00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.11-20.08.34:899][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e486e8d00, Size=688
+[2018.06.11-20.08.34:899][553]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e8c168400, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_41:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.11-20.08.34:910][553]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7e3c4d00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.11-20.08.34:922][553]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e486f5210, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.11-20.08.34:926][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e486f5210, Size=52
+[2018.06.11-20.08.34:926][553]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e486f5210, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_43:ExecuteUbergraph_FirstPersonHUD
+[2018.06.11-20.08.34:928][553]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e486f56e0, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.11-20.08.34:969][553]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.11-20.08.34:971][553]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2018.06.11-16.08.34
+[2018.06.11-20.08.34:972][553]LogWorld: Bringing up level for play took: 0.001328
+[2018.06.11-20.08.34:985][553]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.11-20.08.34:992][553]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.11-20.08.34:995][553]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.34:995][553]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.06.11-20.08.34:995][553]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.34:995][553]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.06.11-20.08.34:995][553]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.08.34:995][553]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.06.11-20.08.34:999][553]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 1.009
+[2018.06.11-20.08.35:001][553]PIE: New page: PIE session: MainMenu (Jun 11, 2018, 12:08:35 PM)
+[2018.06.11-20.08.35:015][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-20.08.35:126][553]LogNet: Browse: 127.0.0.1:17777//Game/Maps/MainMenu
+[2018.06.11-20.08.35:126][553]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.35:126][553]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.06.11-20.08.35:126][553]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.11-20.08.35:126][553]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.11-20.08.35:127][553]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.08.35:127][553]LogNet: Game client on port 17777, rate 10000
+[2018.06.11-20.08.35:130][553]PIE: Play in editor start time for /Game/Maps/MainMenu 1.141
+[2018.06.11-20.08.35:145][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.06.11-20.08.35:146][553]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64590
+[2018.06.11-20.08.35:146][553]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 055041127102001159133044114069087036171142087023249126093007
+[2018.06.11-20.08.35:152][553]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 055041127102001159133044114069087036171142087023249126093007
+[2018.06.11-20.08.35:180][553]LogRenderer: Reallocating scene render targets to support 664x360 Format 10 NumSamples 1 (Frame:1).
+[2018.06.11-20.08.35:273][554]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64590
+[2018.06.11-20.08.35:273][554]LogHandshake: SendChallengeAck. InCookie: 055041127102001159133044114069087036171142087023249126093007
+[2018.06.11-20.08.35:273][554]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64590
+[2018.06.11-20.08.35:274][554]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.08.35:275][554]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 06/11/18 16:08:35, [UNetConnection] RemoteAddr: 127.0.0.1:64590, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.08.35:275][554]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64590, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.08.35:277][554]LogNetVersion: Quake 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1278608)
+[2018.06.11-20.08.35:277][554]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.08.35:289][555]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.06.11-20.08.35:289][555]LogNet: Remote platform little endian=1
+[2018.06.11-20.08.35:289][555]LogNet: This platform little endian=1
+[2018.06.11-20.08.35:319][556]LogNet: Login request: /Game/Maps/MainMenu?Name=Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4 userId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.35:320][556]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2018.06.11-20.08.35:320][556]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_MainMenu?game=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2018.06.11-20.08.35:356][556]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e486f5210, Size=52
+[2018.06.11-20.08.35:356][556]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e8c168400, Size=688
+[2018.06.11-20.08.35:359][556]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.08.35:359][556]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.35:361][556]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2018.06.11-16.08.35
+[2018.06.11-20.08.35:362][556]LogWorld: Bringing up level for play took: 0.000764
+[2018.06.11-20.08.35:362][556]LogLoad: Took 0.041544 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2018.06.11-20.08.35:385][557]LogNet: Client netspeed is 10000
+[2018.06.11-20.08.35:385][557]LogNet: Join request: /Game/Maps/MainMenu?Name=Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4?SplitscreenCount=1
+[2018.06.11-20.08.35:385][557]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.06.11-20.08.35:386][557]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.11-20.08.35:391][557]LogNet: Join succeeded: Robs-Blade-4B9C17404
+[2018.06.11-20.08.35:460][560]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.06.11-20.08.35:478][561]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.06.11-20.08.36:511][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-20.08.38:767][749]LogNet: Browse: /Game/Maps/Lobby?listen
+[2018.06.11-20.08.38:767][749]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2018.06.11-20.08.38:767][749]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2018.06.11-20.08.38:767][749]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2018.06.11-20.08.38:768][749]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64590, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.38:768][749]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64590, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4, Channels: 10, Time: 2018.06.11-20.08.38
+[2018.06.11-20.08.38:768][749]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64590, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.38:768][749]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2018.06.11-20.08.39:465][749]LogAIModule: Creating AISystem for world Lobby
+[2018.06.11-20.08.39:465][749]LogLoad: Game class is 'LobbyGM_C'
+[2018.06.11-20.08.39:465][749]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.39:466][749]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.06.11-20.08.39:466][749]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.39:466][749]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.06.11-20.08.39:466][749]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.08.39:466][749]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2018.06.11-20.08.39:469][749]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lobby.Lobby up for play (max tick rate 60) at 2018.06.11-16.08.39
+[2018.06.11-20.08.39:469][749]LogWorld: Bringing up level for play took: 0.002120
+[2018.06.11-20.08.39:479][749]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.11-20.08.39:479][749]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.11-20.08.39:479][749]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.11-20.08.39:479][749]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.11-20.08.39:479][749]LogLoad: Took 0.711786 seconds to LoadMap(/Game/Maps/Lobby)
+[2018.06.11-20.08.39:480][749]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2018.06.11-20.08.39:480][749]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2018.06.11-20.08.39:480][749]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2018.06.11-20.08.39:480][749]LogGameMode: Display: Match State Changed from InProgress to Aborted
+[2018.06.11-20.08.39:481][749]LogGameState: Match State Changed from InProgress to Aborted
+[2018.06.11-20.08.39:481][749]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4, Channels: 10, Time: 2018.06.11-20.08.39
+[2018.06.11-20.08.39:481][749]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.39:481][749]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2018.06.11-20.08.39:481][749]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2018.06.11-20.08.39:481][749]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2018.06.11-20.08.39:517][750]LogNet: Browse: /Game/Maps/MainMenu?closed
+[2018.06.11-20.08.39:517][750]LogNet: Failed; returning to Entry
+[2018.06.11-20.08.39:535][750]LogLoad: LoadMap: /Game/Maps/MainMenu?closed
+[2018.06.11-20.08.39:536][750]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2018.06.11-20.08.39:536][750]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2018.06.11-20.08.39:536][750]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2018.06.11-20.08.39:574][750]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2018.06.11-20.08.39:575][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000976s)
+[2018.06.11-20.08.39:576][750]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.08.39:576][750]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.06.11-20.08.39:576][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.001958s)
+[2018.06.11-20.08.39:576][750]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.11-20.08.39:578][750]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2018.06.11-16.08.39
+[2018.06.11-20.08.39:579][750]LogWorld: Bringing up level for play took: 0.000636
+[2018.06.11-20.08.39:579][750]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.11-20.08.39:581][750]LogLoad: Took 0.045737 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2018.06.11-20.08.41:265][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-20.08.41:325][823]LogConsoleManager: Warning: Performance warning: Console object named 'r.DebugSafeZone.Mode' shows many (500) FindConsoleObject() calls (consider caching e.g. using static)
+[2018.06.11-20.08.51:185][405]LogNet: Browse: 192.168.86.34//Game/Maps/MainMenu
+[2018.06.11-20.08.51:186][405]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.51:186][405]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.06.11-20.08.51:186][405]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.11-20.08.51:186][405]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.11-20.08.51:187][405]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.08.51:187][405]LogNet: Game client on port 7777, rate 10000
+[2018.06.11-20.08.51:202][406]LogNet: NotifyAcceptingConnection accepted from: 192.168.86.34:54777
+[2018.06.11-20.08.51:202][406]LogHandshake: SendConnectChallenge. Timestamp: 12.455451, Cookie: 015178024105044066171075120225123241137031156056023012165010
+[2018.06.11-20.08.51:203][406]LogHandshake: SendChallengeResponse. Timestamp: 12.455451, Cookie: 015178024105044066171075120225123241137031156056023012165010
+[2018.06.11-20.08.51:219][407]LogNet: NotifyAcceptingConnection accepted from: 192.168.86.34:54777
+[2018.06.11-20.08.51:219][407]LogHandshake: SendChallengeAck. InCookie: 015178024105044066171075120225123241137031156056023012165010
+[2018.06.11-20.08.51:219][407]LogNet: Server accepting post-challenge connection from: 192.168.86.34:54777
+[2018.06.11-20.08.51:219][407]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.08.51:219][407]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 06/11/18 16:08:51, [UNetConnection] RemoteAddr: 192.168.86.34:54777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.08.51:219][407]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.86.34:54777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.08.51:220][407]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.86.34:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.08.51:235][408]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2018.06.11-20.08.51:235][408]LogNet: Remote platform little endian=1
+[2018.06.11-20.08.51:235][408]LogNet: This platform little endian=1
+[2018.06.11-20.08.51:252][409]LogNet: Login request: /Game/Maps/MainMenu?Name=Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4 userId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.51:253][409]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2018.06.11-20.08.51:254][409]LogLoad: LoadMap: 192.168.86.34//Game/Maps/UEDPIE_1_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2018.06.11-20.08.51:497][409]LogAIModule: Creating AISystem for world Lobby
+[2018.06.11-20.08.51:497][409]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.08.51:499][409]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 60) at 2018.06.11-16.08.51
+[2018.06.11-20.08.51:499][409]LogWorld: Bringing up level for play took: 0.001335
+[2018.06.11-20.08.51:500][409]LogLoad: Took 0.246194 seconds to LoadMap(/Game/Maps/UEDPIE_1_Lobby)
+[2018.06.11-20.08.51:518][410]LogNet: Client netspeed is 10000
+[2018.06.11-20.08.51:518][410]LogNet: Join request: /Game/Maps/MainMenu?Name=Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4?SplitscreenCount=1
+[2018.06.11-20.08.51:525][410]LogNet: Join succeeded: Robs-Blade-4B9C17404
+[2018.06.11-20.08.51:553][411]LogNetPackageMap: Warning: SanityCheckExport: CacheObject == NULL. NetGUID: 1, Object: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Chair_M
+[2018.06.11-20.08.51:553][411]LogNetPackageMap: Warning: SanityCheckExport: Name mismatch. NetGUID: 1, Object: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Chair_M
+[2018.06.11-20.08.51:553][411]LogNetPackageMap: Warning: SanityCheckExport: Outer mismatch. Object: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, NetGUID: 1, Current: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD, Expected: /Game/StarterContent/Textures/T_Chair_M
+[2018.06.11-20.08.53:406][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-20.08.53:502][519]LogNet: Browse: /Game/Maps/MainMenu
+[2018.06.11-20.08.53:503][519]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.06.11-20.08.53:503][519]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2018.06.11-20.08.53:503][519]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2018.06.11-20.08.53:503][519]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.86.34:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4, Channels: 9, Time: 2018.06.11-20.08.53
+[2018.06.11-20.08.53:503][519]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.86.34:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.53:503][519]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2018.06.11-20.08.53:504][519]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.06.11-20.08.53:542][519]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2018.06.11-20.08.53:543][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001052s)
+[2018.06.11-20.08.53:544][519]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.08.53:544][519]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.06.11-20.08.53:544][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.002066s)
+[2018.06.11-20.08.53:544][519]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.11-20.08.53:546][519]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2018.06.11-16.08.53
+[2018.06.11-20.08.53:546][519]LogWorld: Bringing up level for play took: 0.000550
+[2018.06.11-20.08.53:547][519]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.11-20.08.53:549][519]LogLoad: Took 0.046784 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2018.06.11-20.08.53:568][520]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2018.06.11-20.08.53:568][520]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.86.34:54777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.53:568][520]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.86.34:54777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4, Channels: 9, Time: 2018.06.11-20.08.53
+[2018.06.11-20.08.53:568][520]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.86.34:54777, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.08.53:570][520]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2018.06.11-20.09.02:788][ 66]LogNet: Browse: 192.168.86.34//Game/Maps/MainMenu
+[2018.06.11-20.09.02:788][ 66]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.09.02:788][ 66]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.06.11-20.09.02:788][ 66]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.11-20.09.02:788][ 66]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.11-20.09.02:789][ 66]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.09.02:789][ 66]LogNet: Game client on port 7777, rate 10000
+[2018.06.11-20.09.02:802][ 67]LogNet: NotifyAcceptingConnection accepted from: 192.168.86.34:54019
+[2018.06.11-20.09.02:802][ 67]LogHandshake: SendConnectChallenge. Timestamp: 24.055256, Cookie: 136239019207197198067190169179046137013184013016107231163052
+[2018.06.11-20.09.02:803][ 67]LogHandshake: SendChallengeResponse. Timestamp: 24.055256, Cookie: 136239019207197198067190169179046137013184013016107231163052
+[2018.06.11-20.09.02:819][ 68]LogNet: NotifyAcceptingConnection accepted from: 192.168.86.34:54019
+[2018.06.11-20.09.02:819][ 68]LogHandshake: SendChallengeAck. InCookie: 136239019207197198067190169179046137013184013016107231163052
+[2018.06.11-20.09.02:819][ 68]LogNet: Server accepting post-challenge connection from: 192.168.86.34:54019
+[2018.06.11-20.09.02:819][ 68]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.09.02:819][ 68]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 06/11/18 16:09:02, [UNetConnection] RemoteAddr: 192.168.86.34:54019, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.09.02:820][ 68]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.86.34:54019, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.09.02:821][ 68]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.86.34:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.09.02:837][ 69]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Lobby.Lobby: Accepted
+[2018.06.11-20.09.02:837][ 69]LogNet: Remote platform little endian=1
+[2018.06.11-20.09.02:837][ 69]LogNet: This platform little endian=1
+[2018.06.11-20.09.02:852][ 70]LogNet: Login request: /Game/Maps/MainMenu?Name=Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4 userId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.09.02:853][ 70]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Lobby, Game: /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2018.06.11-20.09.02:854][ 70]LogLoad: LoadMap: 192.168.86.34//Game/Maps/UEDPIE_1_Lobby?game=/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2018.06.11-20.09.02:914][ 70]LogAIModule: Creating AISystem for world Lobby
+[2018.06.11-20.09.02:915][ 70]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.09.02:917][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Lobby.Lobby up for play (max tick rate 60) at 2018.06.11-16.09.02
+[2018.06.11-20.09.02:917][ 70]LogWorld: Bringing up level for play took: 0.001518
+[2018.06.11-20.09.02:917][ 70]LogLoad: Took 0.064046 seconds to LoadMap(/Game/Maps/UEDPIE_1_Lobby)
+[2018.06.11-20.09.02:940][ 71]LogNet: Client netspeed is 10000
+[2018.06.11-20.09.02:940][ 71]LogNet: Join request: /Game/Maps/MainMenu?Name=Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4?SplitscreenCount=1
+[2018.06.11-20.09.02:949][ 71]LogNet: Join succeeded: Robs-Blade-4B9C17404
+[2018.06.11-20.09.02:977][ 72]LogNetPackageMap: Warning: SanityCheckExport: CacheObject == NULL. NetGUID: 1, Object: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Chair_M
+[2018.06.11-20.09.02:977][ 72]LogNetPackageMap: Warning: SanityCheckExport: Name mismatch. NetGUID: 1, Object: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Chair_M
+[2018.06.11-20.09.02:977][ 72]LogNetPackageMap: Warning: SanityCheckExport: Outer mismatch. Object: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, NetGUID: 1, Current: /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD, Expected: /Game/StarterContent/Textures/T_Chair_M
+[2018.06.11-20.09.04:994][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-20.09.05:103][195]LogNet: Browse: /Game/Maps/MainMenu
+[2018.06.11-20.09.05:103][195]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.06.11-20.09.05:103][195]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2018.06.11-20.09.05:104][195]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2018.06.11-20.09.05:104][195]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.86.34:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4, Channels: 10, Time: 2018.06.11-20.09.05
+[2018.06.11-20.09.05:104][195]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.86.34:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.09.05:104][195]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2018.06.11-20.09.05:105][195]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.06.11-20.09.05:142][195]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_2_MainMenu
+[2018.06.11-20.09.05:144][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001505s)
+[2018.06.11-20.09.05:145][195]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.09.05:146][195]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2018.06.11-20.09.05:146][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_2_MainMenu.MainMenu (0.003678s)
+[2018.06.11-20.09.05:146][195]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.11-20.09.05:148][195]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2018.06.11-16.09.05
+[2018.06.11-20.09.05:149][195]LogWorld: Bringing up level for play took: 0.000806
+[2018.06.11-20.09.05:150][195]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.11-20.09.05:154][195]LogLoad: Took 0.049968 seconds to LoadMap(/Game/Maps/UEDPIE_2_MainMenu)
+[2018.06.11-20.09.05:173][196]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2018.06.11-20.09.05:173][196]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.86.34:54019, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.09.05:173][196]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.86.34:54019, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4, Channels: 10, Time: 2018.06.11-20.09.05
+[2018.06.11-20.09.05:173][196]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.86.34:54019, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: Robs-Blade-4B9C17404D130ECF8EB5C7B6B0B08EC4
+[2018.06.11-20.09.05:175][196]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2018.06.11-20.09.06:930][300]LogSlate: Window 'Quake Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.11-20.09.06:939][300]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2018.06.11-20.09.06:940][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.06.11-20.09.06:963][300]LogSlate: Window 'Quake Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.11-20.09.07:000][300]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.06.11-20.09.07:000][300]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.06.11-20.09.07:002][300]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.06.11-20.09.07:002][300]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.06.11-20.09.07:033][300]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.06.11-20.09.07:033][300]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.06.11-20.09.07:034][300]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.06.11-20.09.07:034][300]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.06.11-20.09.07:034][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.06.11-20.09.07:035][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.06.11-20.09.07:074][300]LogExit: GameNetDriver None shut down
+[2018.06.11-20.09.07:095][301]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.06.11-20.09.07:095][301]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.06.11-20.09.07:095][301]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.06.11-20.09.07:095][301]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.06.11-20.09.08:452][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2018.06.11-20.09.08:538][380]LogSavePackage: Save=72.96ms
+[2018.06.11-20.09.08:538][380]LogSavePackage: Moving '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Saved/GameSettings85EF73694978CE26A384B29C8B03896C.tmp' to '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/GameSettings.uasset'
+[2018.06.11-20.09.08:539][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/GameSettings.uasset
+[2018.06.11-20.10.00:840][576]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.11-20.10.01:788][626]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.11-20.10.02:972][684]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-20.10.10:949][ 78]LogSlate: Window 'CharacterSelect*' being destroyed
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.ServerMenu:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevels/ChatWindow.ChatWindow:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevels/LoadingScreen.SKEL_LoadingScreen_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.WidgetArchetype:WidgetTree_0.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevels/ChatWindow.SKEL_ChatWindow_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevels/ChatWindow.ChatWindow_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_13.WidgetTree_99.CharacterSelect.WidgetTree_100.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_13.WidgetTree_99.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_11:HostMenu_C_1.WidgetTree_106.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_CharacterSelect_C_11:WidgetTree.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:CharacterSelect_C_0.WidgetTree_103.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_13.WidgetTree_99.ChatWindow.WidgetTree_102.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_9:CharacterSelect_C_1.WidgetTree_104.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_11:HostMenu_C_2.WidgetTree_107.CanvasPanel_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:484][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_11:HostMenu_C_2.WidgetTree_107.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_11:HostMenu_C_1.WidgetTree_106.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_3:LobbyMenu_C_13.WidgetTree_99.CanvasPanel_0.CanvasPanelSlot_0
+[2018.06.11-20.10.32:485][340]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.Border_0).  Import failed...
+[2018.06.11-20.10.32:485][340]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2018.06.11-20.10.36:166][558]LogSlate: Took 0.002304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.06.11-20.11.51:775][164]BlueprintLog: New page: Compile CharacterSelect
+[2018.06.11-20.11.52:384][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2018.06.11-20.11.52:416][183]LogSavePackage: Save=15.32ms
+[2018.06.11-20.11.52:416][183]LogSavePackage: Moving '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Saved/CharacterSelect324724714D1ABC38C634EAB1688CEE1B.tmp' to '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset'
+[2018.06.11-20.11.52:419][183]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset
+[2018.06.11-20.16.52:148][662]LogRenderer: Reallocating scene render targets to support 664x408 Format 10 NumSamples 1 (Frame:2).
+[2018.06.11-20.17.59:185][ 77]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.11-20.18.02:256][244]BlueprintLog: New page: Compile CharacterSelect
+[2018.06.11-20.18.02:979][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2018.06.11-20.18.03:023][263]LogSavePackage: Save=19.09ms
+[2018.06.11-20.18.03:023][263]LogSavePackage: Moving '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Saved/CharacterSelectFAA2887A40748D7B195A77B21125FFAE.tmp' to '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset'
+[2018.06.11-20.18.03:029][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_14.WidgetTree_119.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_29.WidgetTree_136.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_30.WidgetTree_137.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_18.WidgetTree_125.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_19.WidgetTree_127.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_20.WidgetTree_128.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_21.WidgetTree_129.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_22.WidgetTree_130.UniformGridPanel_0
+[2018.06.11-20.18.30:798][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_23.WidgetTree_131.UniformGridPanel_0
+[2018.06.11-20.18.30:799][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_24.WidgetTree_132.UniformGridPanel_0
+[2018.06.11-20.18.30:799][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_25.WidgetTree_133.UniformGridPanel_0
+[2018.06.11-20.18.30:799][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_26.WidgetTree_134.UniformGridPanel_0
+[2018.06.11-20.18.30:799][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.REINST_CharacterSelect_C_38:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.30:799][171]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.30:799][171]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0.UniformGridSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Character1).  Import failed...
+[2018.06.11-20.18.30:799][171]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_0.UniformGridSlot_0"''
+[2018.06.11-20.18.33:193][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_14.WidgetTree_119.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_29.WidgetTree_136.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_30.WidgetTree_137.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_18.WidgetTree_125.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_19.WidgetTree_127.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_20.WidgetTree_128.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_21.WidgetTree_129.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_22.WidgetTree_130.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_23.WidgetTree_131.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_24.WidgetTree_132.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_25.WidgetTree_133.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_26.WidgetTree_134.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.REINST_CharacterSelect_C_38:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_31.WidgetTree_139.UniformGridPanel_0
+[2018.06.11-20.18.33:194][297]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0.UniformGridSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Character1).  Import failed...
+[2018.06.11-20.18.33:194][297]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_0.UniformGridSlot_0"''
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_14.WidgetTree_119.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_29.WidgetTree_136.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_30.WidgetTree_137.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_18.WidgetTree_125.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_19.WidgetTree_127.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_20.WidgetTree_128.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_21.WidgetTree_129.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_22.WidgetTree_130.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_23.WidgetTree_131.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_24.WidgetTree_132.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_25.WidgetTree_133.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_26.WidgetTree_134.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.REINST_CharacterSelect_C_38:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_31.WidgetTree_139.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_32.WidgetTree_140.UniformGridPanel_0
+[2018.06.11-20.18.35:647][429]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0.UniformGridSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Character1).  Import failed...
+[2018.06.11-20.18.35:648][429]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_0.UniformGridSlot_0"''
+[2018.06.11-20.18.37:934][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_14.WidgetTree_119.UniformGridPanel_0
+[2018.06.11-20.18.37:934][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_29.WidgetTree_136.UniformGridPanel_0
+[2018.06.11-20.18.37:934][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_30.WidgetTree_137.UniformGridPanel_0
+[2018.06.11-20.18.37:934][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_18.WidgetTree_125.UniformGridPanel_0
+[2018.06.11-20.18.37:934][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_19.WidgetTree_127.UniformGridPanel_0
+[2018.06.11-20.18.37:934][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_20.WidgetTree_128.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_21.WidgetTree_129.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_22.WidgetTree_130.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_23.WidgetTree_131.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_24.WidgetTree_132.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_25.WidgetTree_133.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_26.WidgetTree_134.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.REINST_CharacterSelect_C_38:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_31.WidgetTree_139.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_32.WidgetTree_140.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_33.WidgetTree_141.UniformGridPanel_0
+[2018.06.11-20.18.37:935][550]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0.UniformGridSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Character1).  Import failed...
+[2018.06.11-20.18.37:935][550]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_0.UniformGridSlot_0"''
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_14.WidgetTree_119.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_29.WidgetTree_136.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_30.WidgetTree_137.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_18.WidgetTree_125.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_19.WidgetTree_127.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_20.WidgetTree_128.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_21.WidgetTree_129.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_22.WidgetTree_130.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_23.WidgetTree_131.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_24.WidgetTree_132.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_25.WidgetTree_133.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_26.WidgetTree_134.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.REINST_CharacterSelect_C_38:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_31.WidgetTree_139.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_32.WidgetTree_140.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_33.WidgetTree_141.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_34.WidgetTree_142.UniformGridPanel_0
+[2018.06.11-20.18.39:547][627]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0.UniformGridSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Character1).  Import failed...
+[2018.06.11-20.18.39:547][627]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_0.UniformGridSlot_0"''
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_14.WidgetTree_119.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_29.WidgetTree_136.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_30.WidgetTree_137.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_18.WidgetTree_125.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_19.WidgetTree_127.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_20.WidgetTree_128.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_21.WidgetTree_129.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_22.WidgetTree_130.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_23.WidgetTree_131.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_24.WidgetTree_132.UniformGridPanel_0
+[2018.06.11-20.18.40:830][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_25.WidgetTree_133.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_26.WidgetTree_134.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.REINST_CharacterSelect_C_38:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_31.WidgetTree_139.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_32.WidgetTree_140.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_33.WidgetTree_141.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_34.WidgetTree_142.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_35.WidgetTree_143.UniformGridPanel_0
+[2018.06.11-20.18.40:831][691]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0.UniformGridSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Character1).  Import failed...
+[2018.06.11-20.18.40:831][691]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_0.UniformGridSlot_0"''
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_14.WidgetTree_119.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_29.WidgetTree_136.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_30.WidgetTree_137.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_18.WidgetTree_125.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_19.WidgetTree_127.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_20.WidgetTree_128.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_21.WidgetTree_129.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_22.WidgetTree_130.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_23.WidgetTree_131.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_24.WidgetTree_132.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_25.WidgetTree_133.UniformGridPanel_0
+[2018.06.11-20.19.15:058][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_26.WidgetTree_134.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.REINST_CharacterSelect_C_38:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:WidgetTree.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_31.WidgetTree_139.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_32.WidgetTree_140.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_33.WidgetTree_141.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_34.WidgetTree_142.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_35.WidgetTree_143.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0 or UniformGridPanel /Engine/Transient.World_9:CharacterSelect_C_36.WidgetTree_144.UniformGridPanel_0
+[2018.06.11-20.19.15:059][604]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/UI/Lobby/CharacterSelect.CharacterSelect:WidgetTree.UniformGridPanel_0.UniformGridSlot_6) from referencer (Button /Engine/UMG/Editor/Transient.Button_7).  Import failed...
+[2018.06.11-20.19.15:059][604]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_0.UniformGridSlot_6"''
+[2018.06.11-20.20.18:665][ 68]BlueprintLog: New page: Compile CharacterSelect
+[2018.06.11-20.20.19:316][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2018.06.11-20.20.19:364][ 83]LogSavePackage: Save=33.89ms
+[2018.06.11-20.20.19:364][ 83]LogSavePackage: Moving '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Saved/CharacterSelectC93EC957487A7EB2F9DEFEAF98F7F607.tmp' to '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset'
+[2018.06.11-20.20.19:366][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/CharacterSelect.uasset
+[2018.06.11-20.21.16:899][539]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:902][539]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:908][539]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:913][539]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:935][540]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:943][540]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:951][540]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:975][541]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:988][542]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.16:997][542]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:016][543]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:021][543]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:026][543]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:042][544]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:049][544]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:065][545]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:071][545]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:084][546]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:090][546]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:105][547]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:113][547]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:131][548]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:147][549]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:156][549]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:174][550]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:181][550]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:198][551]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:266][555]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:273][555]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:282][556]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:292][556]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:310][557]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:318][557]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:332][558]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:341][558]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:359][559]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:615][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:619][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:638][575]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:651][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:658][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:677][577]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:697][578]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:705][578]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:720][579]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:735][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:741][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:749][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:766][581]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:784][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:794][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:816][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:832][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:839][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:851][585]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:858][585]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:875][586]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:881][586]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:896][587]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:904][587]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:917][588]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:924][588]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:944][589]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:975][591]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.17:982][591]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:001][592]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:009][592]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:021][593]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:029][593]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:049][594]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:064][595]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:074][595]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:088][596]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:239][605]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:245][605]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:260][606]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:422][616]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:428][616]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:446][617]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:559][624]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.18:571][624]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7289a100, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.21.22:339][826]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:343][826]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:349][826]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:364][827]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:369][827]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_216' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:384][828]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:389][828]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:401][829]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:408][829]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:422][830]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:429][830]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:443][831]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:461][832]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:475][833]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:480][833]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:497][834]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.22:517][835]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CharacterSelect_C_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.11-20.21.23:067][868]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e7289a100, Size=4
+[2018.06.11-20.21.23:067][868]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7289a100, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_57:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.21.23:073][868]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e72899af0, Size=4, Default__SKEL_LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.SKEL_LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.21.30:998][319]BlueprintLog: New page: Compile LobbyMenu
+[2018.06.11-20.21.31:025][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e72899af0, Size=4
+[2018.06.11-20.21.31:025][319]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e72899af0, Size=4, Default__SKEL_LobbyMenu_C Function /Engine/Transient.REINST_SKEL_LobbyMenu_C_58:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.21.31:165][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e31a45d00, Size=320
+[2018.06.11-20.21.31:165][319]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e72a04540, Size=320, Default__LobbyMenu_C Function /Engine/Transient.REINST_LobbyMenu_C_59:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.21.31:166][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e62ac7380, Size=640
+[2018.06.11-20.21.31:167][319]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7c25bd80, Size=640, Default__LobbyPC_C Function /Engine/Transient.REINST_LobbyPC_C_113:ExecuteUbergraph_LobbyPC
+[2018.06.11-20.21.31:168][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e62a77a00, Size=656
+[2018.06.11-20.21.31:168][319]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e72a91c00, Size=656, Default__LobbyGM_C Function /Engine/Transient.REINST_LobbyGM_C_114:ExecuteUbergraph_LobbyGM
+[2018.06.11-20.21.31:215][319]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7bdae5c0, Size=320, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.21.31:222][319]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7bc0b100, Size=640, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.06.11-20.21.31:232][319]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e72d1fd00, Size=656, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.06.11-20.21.31:281][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e72899af0, Size=4
+[2018.06.11-20.21.31:281][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e7289a100, Size=4
+[2018.06.11-20.21.32:042][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.06.11-20.21.32:170][346]LogSavePackage: Save=103.54ms
+[2018.06.11-20.21.32:170][346]LogSavePackage: Moving '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Saved/LobbyMenuA136ACCE41F5805E81D5B9917279D497.tmp' to '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.06.11-20.21.32:173][346]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/LobbyMenu.uasset
+[2018.06.11-20.22.04:383][597]BlueprintLog: New page: Compile LobbyMenu
+[2018.06.11-20.22.04:542][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e7bdae5c0, Size=320
+[2018.06.11-20.22.04:542][597]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6ec05e40, Size=320, LobbyMenu_C_21 Function /Engine/Transient.REINST_LobbyMenu_C_61:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.22.04:543][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e7bc0b100, Size=640
+[2018.06.11-20.22.04:543][597]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6a259080, Size=640, LobbyPC_C_1 Function /Engine/Transient.REINST_LobbyPC_C_123:ExecuteUbergraph_LobbyPC
+[2018.06.11-20.22.04:544][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e72d1fd00, Size=656
+[2018.06.11-20.22.04:544][597]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7fc71000, Size=656, LobbyGM_C_1 Function /Engine/Transient.REINST_LobbyGM_C_124:ExecuteUbergraph_LobbyGM
+[2018.06.11-20.22.04:582][597]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6a29b740, Size=320, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.11-20.22.04:595][597]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e6a253880, Size=640, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.06.11-20.22.04:599][597]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018e7c248100, Size=656, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.06.11-20.22.04:647][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e7c25bd80, Size=640
+[2018.06.11-20.22.04:647][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e72a91c00, Size=656
+[2018.06.11-20.22.05:060][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.06.11-20.22.05:178][603]LogSavePackage: Save=104.69ms
+[2018.06.11-20.22.05:178][603]LogSavePackage: Moving '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Saved/LobbyMenu7AAA8F9B44B841115CA898991815F277.tmp' to '../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.06.11-20.22.05:180][603]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/Lobby/LobbyMenu.uasset
+[2018.06.11-20.22.08:667][808]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.11-20.22.08:714][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.06.11-20.22.08:715][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.11-20.22.08:718][808]PIE: New page: PIE session: MainMenu (Jun 11, 2018, 12:22:08 PM)
+[2018.06.11-20.22.08:719][808]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_MainMenu
+[2018.06.11-20.22.08:721][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002083s)
+[2018.06.11-20.22.08:722][808]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.22.08:722][808]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2018.06.11-20.22.08:722][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_1_MainMenu.MainMenu (0.003610s)
+[2018.06.11-20.22.08:757][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6ec05e40, Size=320
+[2018.06.11-20.22.08:757][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e6a259080, Size=640
+[2018.06.11-20.22.08:757][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018e7fc71000, Size=656
+[2018.06.11-20.22.08:762][808]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.11-20.22.08:790][808]LogInit: FAudioDevice initialized.
+[2018.06.11-20.22.08:909][808]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.11-20.22.08:911][808]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2018.06.11-16.22.08
+[2018.06.11-20.22.08:912][808]LogWorld: Bringing up level for play took: 0.001021
+[2018.06.11-20.22.08:926][808]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.11-20.22.08:930][808]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.22.08:930][808]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.06.11-20.22.08:930][808]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.22.08:930][808]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.06.11-20.22.08:930][808]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.22.08:930][808]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 17777
+[2018.06.11-20.22.08:934][808]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_MainMenu 0.944
+[2018.06.11-20.22.08:940][808]PIE: New page: PIE session: MainMenu (Jun 11, 2018, 12:22:08 PM)
+[2018.06.11-20.22.08:961][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-20.22.09:077][808]LogNet: Browse: 127.0.0.1:17777//Game/Maps/MainMenu
+[2018.06.11-20.22.09:077][808]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.22.09:077][808]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.06.11-20.22.09:077][808]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.06.11-20.22.09:077][808]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.06.11-20.22.09:077][808]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.22.09:077][808]LogNet: Game client on port 17777, rate 10000
+[2018.06.11-20.22.09:082][808]PIE: Play in editor start time for /Game/Maps/MainMenu 1.093
+[2018.06.11-20.22.09:105][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.06.11-20.22.09:106][808]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51351
+[2018.06.11-20.22.09:106][808]LogHandshake: SendConnectChallenge. Timestamp: 0.016691, Cookie: 169115235118141016112176207220050016120096067101198225209199
+[2018.06.11-20.22.09:110][808]LogHandshake: SendChallengeResponse. Timestamp: 0.016691, Cookie: 169115235118141016112176207220050016120096067101198225209199
+[2018.06.11-20.22.09:367][809]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51351
+[2018.06.11-20.22.09:368][809]LogHandshake: SendChallengeAck. InCookie: 169115235118141016112176207220050016120096067101198225209199
+[2018.06.11-20.22.09:368][809]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51351
+[2018.06.11-20.22.09:368][809]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.11-20.22.09:368][809]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 06/11/18 16:22:09, [UNetConnection] RemoteAddr: 127.0.0.1:51351, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.22.09:368][809]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51351, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.22.09:371][809]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.06.11-20.22.09:400][810]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2018.06.11-20.22.09:400][810]LogNet: Remote platform little endian=1
+[2018.06.11-20.22.09:400][810]LogNet: This platform little endian=1
+[2018.06.11-20.22.09:444][811]LogNet: Login request: /Game/Maps/MainMenu?Name=Robs-Blade-BAAB065C4B2E6CFB06C567B10EC59F19 userId: Robs-Blade-BAAB065C4B2E6CFB06C567B10EC59F19
+[2018.06.11-20.22.09:446][811]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MainMenu, Game: /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2018.06.11-20.22.09:448][811]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_MainMenu?game=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2018.06.11-20.22.09:497][811]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.11-20.22.09:497][811]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.11-20.22.09:499][811]LogWorld: Bringing World /Game/Maps/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 60) at 2018.06.11-16.22.09
+[2018.06.11-20.22.09:500][811]LogWorld: Bringing up level for play took: 0.000721
+[2018.06.11-20.22.09:500][811]LogLoad: Took 0.052104 seconds to LoadMap(/Game/Maps/UEDPIE_1_MainMenu)
+[2018.06.11-20.22.09:683][812]LogNet: Client netspeed is 10000
+[2018.06.11-20.22.09:683][812]LogNet: Join request: /Game/Maps/MainMenu?Name=Robs-Blade-BAAB065C4B2E6CFB06C567B10EC59F19?SplitscreenCount=1
+[2018.06.11-20.22.09:684][812]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.06.11-20.22.09:684][812]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.11-20.22.09:688][812]LogNet: Join succeeded: Robs-Blade-BAAB065C4
+[2018.06.11-20.22.09:728][813]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.06.11-20.22.09:766][814]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.06.11-20.22.10:501][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-20.22.12:034][879]LogNet: Browse: /Game/Maps/Lobby?listen
+[2018.06.11-20.22.12:035][879]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2018.06.11-20.22.12:035][879]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2018.06.11-20.22.12:036][879]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2018.06.11-20.22.12:036][879]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51351, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-BAAB065C4B2E6CFB06C567B10EC59F19
+[2018.06.11-20.22.12:036][879]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51351, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-BAAB065C4B2E6CFB06C567B10EC59F19, Channels: 10, Time: 2018.06.11-20.22.12
+[2018.06.11-20.22.12:036][879]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51351, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: Robs-Blade-BAAB065C4B2E6CFB06C567B10EC59F19
+[2018.06.11-20.22.12:038][879]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2018.06.11-20.22.12:189][879]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.06.11-20.22.12:842][879]LogWindows: Error: === Critical error: ===
+[2018.06.11-20.22.12:842][879]LogWindows: Error: 
+[2018.06.11-20.22.12:842][879]LogWindows: Error: Assertion failed: !HasAnyFlags(RF_NeedLoad|RF_NeedPostLoad) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectLinker.cpp] [Line: 105] 
+[2018.06.11-20.22.12:842][879]LogWindows: Error: Detaching from existing linker for ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/MainMenu/ServerMenu.uasset while object ButtonSlot /Game/UI/MainMenu/ServerMenu.WidgetArchetype:WidgetTree_0.ToggleLeft.ButtonSlot_0 needs loaded
+[2018.06.11-20.22.12:842][879]LogWindows: Error: 
+[2018.06.11-20.22.12:842][879]LogWindows: Error: 
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000BD75F218 KERNELBASE.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000ABE87884 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x0000000087EF6D9B UE4Editor-Core.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x0000000087E31949 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000833DB498 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000832675DA UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000832A9DB5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x0000000083311C7C UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000687367E5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000686396A1 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x00000000685EC788 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.11-20.22.12:842][879]LogWindows: Error: [Callstack] 0x000000006865A4A0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x000000007A7CCD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x000000007B069626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x000000003EC75EAC UE4Editor.exe!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x000000003EC86BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x000000003EC86C4A UE4Editor.exe!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x000000003EC94177 UE4Editor.exe!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x000000003EC95B87 UE4Editor.exe!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x00000000BE063034 KERNEL32.DLL!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x00000000C06A1551 ntdll.dll!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: [Callstack] 0x00000000C06A1551 ntdll.dll!UnknownFunction []
+[2018.06.11-20.22.12:843][879]LogWindows: Error: 
+[2018.06.11-20.22.12:862][879]LogExit: Executing StaticShutdownAfterError
+[2018.06.11-20.22.12:871][879]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.06.11-20.22.12:871][879]Log file closed, 06/11/18 16:22:12

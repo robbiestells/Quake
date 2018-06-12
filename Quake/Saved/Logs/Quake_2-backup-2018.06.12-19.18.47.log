@@ -1,0 +1,630 @@
+﻿Log file open, 06/12/18 19:17:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Quake
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1701767101) SRandInit(-1701767101).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.323893
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.771s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogAppleARKit: Warning: Failed to bind to the listen port (76561198061062492:11111) for LiveLink face AR receiving with error (SE_NO_ERROR)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/Maps/MainMenu -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.12-23.17.56:758][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.12-23.17.56:758][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.12-23.17.56:765][  0]LogInit: Computer: ROBS-BLADE
+[2018.06.12-23.17.56:765][  0]LogInit: User: RobsBlade
+[2018.06.12-23.17.56:765][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.12-23.17.56:765][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2018.06.12-23.17.56:766][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.12-23.17.56:766][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.12-23.17.56:766][  0]LogMemory: Process Physical Memory: 306.10 MB used, 306.10 MB peak
+[2018.06.12-23.17.56:766][  0]LogMemory: Process Virtual Memory: 276.96 MB used, 276.96 MB peak
+[2018.06.12-23.17.56:766][  0]LogMemory: Physical Memory: 10729.23 MB used,  5546.95 MB free, 16276.17 MB total
+[2018.06.12-23.17.56:766][  0]LogMemory: Virtual Memory: 4941.77 MB used,  5546.95 MB free, 134217728.00 MB total
+[2018.06.12-23.17.56:816][  0]LogInit: Using OS detected language (en-US).
+[2018.06.12-23.17.56:816][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.12-23.17.56:816][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.06.12-23.17.56:816][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2018.06.12-23.17.57:474][  0]LogStreaming: Display: Took  0.659s to EndInitTextLocalization.
+[2018.06.12-23.17.57:507][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.12-23.17.57:507][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.12-23.17.57:526][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.12-23.17.57:586][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.06.12-23.17.57:586][  0]LogD3D11RHI:       6052/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.12-23.17.57:602][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.06.12-23.17.57:602][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.12-23.17.57:606][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.12-23.17.57:606][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.12-23.17.57:606][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.12-23.17.57:632][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.12-23.17.57:633][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.12-23.17.57:633][  0]LogWindows: EnumDisplayDevices:
+[2018.06.12-23.17.57:633][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.06.12-23.17.57:633][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.12-23.17.57:633][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.06.12-23.17.57:634][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.06.12-23.17.57:634][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.12-23.17.57:634][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.06.12-23.17.57:634][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.12-23.17.57:634][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.12-23.17.57:634][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.06.12-23.17.57:685][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.12-23.17.57:685][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.12-23.17.57:685][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.12-23.17.57:704][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.12-23.17.57:705][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Intermediate/Shaders/WorkingDirectory/14116/).
+[2018.06.12-23.17.57:705][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rob's Blade/AppData/Local/Temp/UnrealShaderWorkingDir/5E9DDDA14A6735CD65FDE1A20CA5906A/'.
+[2018.06.12-23.17.58:011][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.12-23.17.58:032][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.12-23.17.58:053][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.12-23.17.58:076][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.12-23.17.58:076][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.12-23.17.58:262][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.12-23.17.58:262][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.12-23.17.58:262][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.12-23.17.59:172][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.12-23.17.59:251][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Rob's Blade/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.12-23.17.59:251][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rob's Blade/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.12-23.17.59:251][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.12-23.17.59:251][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.12-23.17.59:251][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.12-23.17.59:251][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.12-23.17.59:273][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.12-23.17.59:286][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rob's Blade/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.12-23.17.59:286][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.12-23.17.59:286][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.12-23.17.59:298][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.12-23.17.59:298][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.12-23.17.59:299][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.12-23.17.59:299][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.12-23.17.59:556][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2018.06.12-23.17.59:793][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.014789 seconds
+[2018.06.12-23.17.59:916][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.12-23.18.00:102][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.12-23.18.00:107][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.12-23.18.00:107][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.12-23.18.00:107][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.12-23.18.00:107][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.12-23.18.00:107][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.12-23.18.00:139][  0]LogNetVersion: Quake , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1851811319)
+[2018.06.12-23.18.01:000][  0]LogMoviePlayer: Initializing movie player
+[2018.06.12-23.18.01:435][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.12-23.18.01:469][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.12-23.18.01:788][  0]SourceControl: Source control is disabled
+[2018.06.12-23.18.01:788][  0]SourceControl: Source control is disabled
+[2018.06.12-23.18.01:816][  0]SourceControl: Source control is disabled
+[2018.06.12-23.18.02:291][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.12-23.18.02:501][  0]LogOcInput: OculusInput pre-init called
+[2018.06.12-23.18.02:563][  0]LogUObjectArray: 40131 objects as part of root set at end of initial load.
+[2018.06.12-23.18.02:563][  0]LogUObjectAllocator: 8578480 out of 0 bytes used by permanent object pool.
+[2018.06.12-23.18.02:563][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.12-23.18.02:631][  0]LogEngine: Initializing Engine...
+[2018.06.12-23.18.02:634][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.12-23.18.02:647][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.12-23.18.02:647][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.12-23.18.02:885][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.12-23.18.02:909][  0]LogInit: FAudioDevice initialized.
+[2018.06.12-23.18.02:927][  0]LogInit: Texture streaming: Enabled
+[2018.06.12-23.18.03:107][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c906a1580, Size=536, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.06.12-23.18.03:120][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c906af240, Size=304, Default__PlayerControllerGM_C Function /Game/Blueprints/Gameplay/PlayerControllerGM.PlayerControllerGM_C:ExecuteUbergraph_PlayerControllerGM
+[2018.06.12-23.18.03:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ca619cf00, Size=224, Default__GameplayGM_C Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:ExecuteUbergraph_GameplayGM
+[2018.06.12-23.18.03:162][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90e675b0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.06.12-23.18.03:169][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9cd48d10, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.12-23.18.03:174][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8d3c30b0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.06.12-23.18.03:182][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90d54e00, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.06.12-23.18.03:220][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90da3b00, Size=320, Default__ChatWindow_C Function /Game/UI/AllLevels/ChatWindow.ChatWindow_C:ExecuteUbergraph_ChatWindow
+[2018.06.12-23.18.03:224][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8d4af200, Size=880, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.06.12-23.18.03:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8d3a0100, Size=752, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.06.12-23.18.03:231][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8d44ba00, Size=688, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.06.12-23.18.03:234][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8d39ad00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.12-23.18.03:246][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8d456d90, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.12-23.18.03:290][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9aa12e00, Size=688, Default__Character1_C Function /Game/Blueprints/Characters/Character1.Character1_C:ExecuteUbergraph_Character1
+[2018.06.12-23.18.03:305][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9aa11f00, Size=688, Default__Character2_C Function /Game/Blueprints/Characters/Character2.Character2_C:ExecuteUbergraph_Character2
+[2018.06.12-23.18.03:316][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9aa10a00, Size=688, Default__Character3_C Function /Game/Blueprints/Characters/Character3.Character3_C:ExecuteUbergraph_Character3
+[2018.06.12-23.18.03:330][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9af67100, Size=688, Default__Character4_C Function /Game/Blueprints/Characters/Character4.Character4_C:ExecuteUbergraph_Character4
+[2018.06.12-23.18.03:343][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9af66800, Size=688, Default__Character5_C Function /Game/Blueprints/Characters/Character5.Character5_C:ExecuteUbergraph_Character5
+[2018.06.12-23.18.03:356][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9af65300, Size=688, Default__Character6_C Function /Game/Blueprints/Characters/Character6.Character6_C:ExecuteUbergraph_Character6
+[2018.06.12-23.18.03:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9af64400, Size=688, Default__Character7_C Function /Game/Blueprints/Characters/Character7.Character7_C:ExecuteUbergraph_Character7
+[2018.06.12-23.18.03:379][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8f50ab00, Size=688, Default__Character8_C Function /Game/Blueprints/Characters/Character8.Character8_C:ExecuteUbergraph_Character8
+[2018.06.12-23.18.03:395][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8f511080, Size=320, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.12-23.18.03:398][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8f56d2b0, Size=80, Default__CharacterSelect_C Function /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.06.12-23.18.03:405][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8f57b4c0, Size=192, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.06.12-23.18.03:408][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8f582800, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.06.12-23.18.03:436][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9afc6b58, Size=4, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.06.12-23.18.03:551][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8d456d90, Size=72
+[2018.06.12-23.18.03:551][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8fd90b30, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.12-23.18.03:552][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8d39ad00, Size=256
+[2018.06.12-23.18.03:552][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8fd0bf00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_3:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.12-23.18.03:552][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c906a1580, Size=536
+[2018.06.12-23.18.03:552][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8fd76c00, Size=536, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_4:ExecuteUbergraph_GameInfoInstance
+[2018.06.12-23.18.03:553][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8d44ba00, Size=688
+[2018.06.12-23.18.03:553][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8fd68d00, Size=688, Default__0_Base_C Function /Engine/Transient.REINST_0_Base_C_6:ExecuteUbergraph_0_Base
+[2018.06.12-23.18.03:554][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9aa12e00, Size=688
+[2018.06.12-23.18.03:555][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941cfa00, Size=688, Default__Character1_C Function /Engine/Transient.REINST_Character1_C_7:ExecuteUbergraph_Character1
+[2018.06.12-23.18.03:555][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9aa11f00, Size=688
+[2018.06.12-23.18.03:555][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941ce500, Size=688, Default__Character2_C Function /Engine/Transient.REINST_Character2_C_8:ExecuteUbergraph_Character2
+[2018.06.12-23.18.03:556][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9aa10a00, Size=688
+[2018.06.12-23.18.03:556][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941cca00, Size=688, Default__Character3_C Function /Engine/Transient.REINST_Character3_C_9:ExecuteUbergraph_Character3
+[2018.06.12-23.18.03:557][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9af67100, Size=688
+[2018.06.12-23.18.03:557][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941c3700, Size=688, Default__Character4_C Function /Engine/Transient.REINST_Character4_C_10:ExecuteUbergraph_Character4
+[2018.06.12-23.18.03:558][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9af66800, Size=688
+[2018.06.12-23.18.03:558][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941c2b00, Size=688, Default__Character5_C Function /Engine/Transient.REINST_Character5_C_11:ExecuteUbergraph_Character5
+[2018.06.12-23.18.03:559][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9af65300, Size=688
+[2018.06.12-23.18.03:559][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941c1900, Size=688, Default__Character6_C Function /Engine/Transient.REINST_Character6_C_12:ExecuteUbergraph_Character6
+[2018.06.12-23.18.03:561][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9af64400, Size=688
+[2018.06.12-23.18.03:561][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941c0d00, Size=688, Default__Character7_C Function /Engine/Transient.REINST_Character7_C_13:ExecuteUbergraph_Character7
+[2018.06.12-23.18.03:562][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8f50ab00, Size=688
+[2018.06.12-23.18.03:562][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9af65300, Size=688, Default__Character8_C Function /Engine/Transient.REINST_Character8_C_14:ExecuteUbergraph_Character8
+[2018.06.12-23.18.03:562][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8f56d2b0, Size=80
+[2018.06.12-23.18.03:562][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941e14e0, Size=80, Default__CharacterSelect_C Function /Engine/Transient.REINST_CharacterSelect_C_0:ExecuteUbergraph_CharacterSelect
+[2018.06.12-23.18.03:562][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90da3b00, Size=320
+[2018.06.12-23.18.03:563][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8ff21f80, Size=320, Default__ChatWindow_C Function /Engine/Transient.REINST_ChatWindow_C_2:ExecuteUbergraph_ChatWindow
+[2018.06.12-23.18.03:563][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9afc6b58, Size=4
+[2018.06.12-23.18.03:563][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9420bd50, Size=4, Default__ConnectedPlayer_C Function /Engine/Transient.REINST_ConnectedPlayer_C_3:ExecuteUbergraph_ConnectedPlayer
+[2018.06.12-23.18.03:563][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8f57b4c0, Size=192
+[2018.06.12-23.18.03:563][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8fe59540, Size=192, Default__GameSettings_C Function /Engine/Transient.REINST_GameSettings_C_5:ExecuteUbergraph_GameSettings
+[2018.06.12-23.18.03:564][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90e675b0, Size=80
+[2018.06.12-23.18.03:564][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c941e0590, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_6:ExecuteUbergraph_HostMenu
+[2018.06.12-23.18.03:565][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8f511080, Size=320
+[2018.06.12-23.18.03:565][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8ff21a80, Size=320, Default__LobbyMenu_C Function /Engine/Transient.REINST_LobbyMenu_C_8:ExecuteUbergraph_LobbyMenu
+[2018.06.12-23.18.03:566][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8d4af200, Size=880
+[2018.06.12-23.18.03:566][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9418ae80, Size=880, Default__LobbyPC_C Function /Engine/Transient.REINST_LobbyPC_C_15:ExecuteUbergraph_LobbyPC
+[2018.06.12-23.18.03:566][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9cd48d10, Size=40
+[2018.06.12-23.18.03:566][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c92331148, Size=40, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_9:ExecuteUbergraph_MainMenu
+[2018.06.12-23.18.03:567][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8d3c30b0, Size=104
+[2018.06.12-23.18.03:567][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9424af60, Size=104, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_10:ExecuteUbergraph_OptionsMenu
+[2018.06.12-23.18.03:567][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8f582800, Size=32
+[2018.06.12-23.18.03:567][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94230d00, Size=32, Default__PlayerButton_C Function /Engine/Transient.REINST_PlayerButton_C_11:ExecuteUbergraph_PlayerButton
+[2018.06.12-23.18.03:568][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c906af240, Size=304
+[2018.06.12-23.18.03:568][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8ff21440, Size=304, Default__PlayerControllerGM_C Function /Engine/Transient.REINST_PlayerControllerGM_C_16:ExecuteUbergraph_PlayerControllerGM
+[2018.06.12-23.18.03:569][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90d54e00, Size=608
+[2018.06.12-23.18.03:569][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8fd77100, Size=608, Default__ServerMenu_C Function /Engine/Transient.REINST_ServerMenu_C_12:ExecuteUbergraph_ServerMenu
+[2018.06.12-23.18.03:569][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ca619cf00, Size=224
+[2018.06.12-23.18.03:569][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94165280, Size=224, Default__GameplayGM_C Function /Engine/Transient.REINST_GameplayGM_C_17:ExecuteUbergraph_GameplayGM
+[2018.06.12-23.18.03:570][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8d3a0100, Size=752
+[2018.06.12-23.18.03:571][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94169300, Size=752, Default__LobbyGM_C Function /Engine/Transient.REINST_LobbyGM_C_18:ExecuteUbergraph_LobbyGM
+[2018.06.12-23.18.03:730][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c901ab4c0, Size=64, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.06.12-23.18.03:731][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c901a1300, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.06.12-23.18.03:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c901b2480, Size=536, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.06.12-23.18.03:736][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9016e200, Size=688, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.06.12-23.18.03:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9016d300, Size=688, Default__Character1_C Function /Game/Blueprints/Characters/Character1.Character1_C:ExecuteUbergraph_Character1
+[2018.06.12-23.18.03:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9016ca00, Size=688, Default__Character2_C Function /Game/Blueprints/Characters/Character2.Character2_C:ExecuteUbergraph_Character2
+[2018.06.12-23.18.03:746][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94058a00, Size=688, Default__Character3_C Function /Game/Blueprints/Characters/Character3.Character3_C:ExecuteUbergraph_Character3
+[2018.06.12-23.18.03:751][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90084d00, Size=688, Default__Character4_C Function /Game/Blueprints/Characters/Character4.Character4_C:ExecuteUbergraph_Character4
+[2018.06.12-23.18.03:755][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90084700, Size=688, Default__Character5_C Function /Game/Blueprints/Characters/Character5.Character5_C:ExecuteUbergraph_Character5
+[2018.06.12-23.18.03:758][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90043d00, Size=688, Default__Character6_C Function /Game/Blueprints/Characters/Character6.Character6_C:ExecuteUbergraph_Character6
+[2018.06.12-23.18.03:761][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90043400, Size=688, Default__Character7_C Function /Game/Blueprints/Characters/Character7.Character7_C:ExecuteUbergraph_Character7
+[2018.06.12-23.18.03:764][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c90042b00, Size=688, Default__Character8_C Function /Game/Blueprints/Characters/Character8.Character8_C:ExecuteUbergraph_Character8
+[2018.06.12-23.18.03:766][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8ffbeac0, Size=80, Default__CharacterSelect_C Function /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.06.12-23.18.03:768][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c901e9440, Size=320, Default__ChatWindow_C Function /Game/UI/AllLevels/ChatWindow.ChatWindow_C:ExecuteUbergraph_ChatWindow
+[2018.06.12-23.18.03:769][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c902169f8, Size=4, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.06.12-23.18.03:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c8ffc8940, Size=192, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.06.12-23.18.03:774][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9484a0c0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.06.12-23.18.03:777][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c901e8f40, Size=320, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.06.12-23.18.03:782][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c947f9600, Size=880, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.06.12-23.18.03:785][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c900caa70, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.12-23.18.03:788][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94766b70, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.06.12-23.18.03:789][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c947b8720, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.06.12-23.18.03:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c901e8a40, Size=304, Default__PlayerControllerGM_C Function /Game/Blueprints/Gameplay/PlayerControllerGM.PlayerControllerGM_C:ExecuteUbergraph_PlayerControllerGM
+[2018.06.12-23.18.03:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c947c4b80, Size=592, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.06.12-23.18.03:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9019e320, Size=224, Default__GameplayGM_C Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:ExecuteUbergraph_GameplayGM
+[2018.06.12-23.18.03:800][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94705280, Size=784, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.06.12-23.18.04:084][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.874970ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.06.12-23.18.04:094][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.731762ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.06.12-23.18.04:111][  0]LogInit: Display: Game Engine Initialized.
+[2018.06.12-23.18.04:111][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.12-23.18.04:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.12-23.18.04:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.12-23.18.04:240][  0]LogInit: Display: Starting Game.
+[2018.06.12-23.18.04:240][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2018.06.12-23.18.04:240][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2018.06.12-23.18.04:262][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8fd76c00, Size=536
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8ff21440, Size=304
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94165280, Size=224
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941e0590, Size=80
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c92331148, Size=40
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9424af60, Size=104
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8fd77100, Size=608
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8ff21f80, Size=320
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9418ae80, Size=880
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94169300, Size=752
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8fd68d00, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8fd0bf00, Size=256
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8fd90b30, Size=72
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941cfa00, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941ce500, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941cca00, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941c3700, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941c2b00, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941c1900, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941c0d00, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9af65300, Size=688
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8ff21a80, Size=320
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c941e14e0, Size=80
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8fe59540, Size=192
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94230d00, Size=32
+[2018.06.12-23.18.04:263][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9420bd50, Size=4
+[2018.06.12-23.18.04:270][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9484d1a0, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.12-23.18.04:271][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9484d1a0, Size=32
+[2018.06.12-23.18.04:271][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9484d1a0, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_51:ExecuteUbergraph_MainMenu
+[2018.06.12-23.18.04:272][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9484c520, Size=32, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.06.12-23.18.04:291][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.06.12-23.18.04:302][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9af11000, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.12-23.18.04:313][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c946897f8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.12-23.18.04:320][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c946897f8, Size=52
+[2018.06.12-23.18.04:320][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c946897f8, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_53:ExecuteUbergraph_FirstPersonHUD
+[2018.06.12-23.18.04:320][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9af11000, Size=688
+[2018.06.12-23.18.04:321][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c9405b400, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_54:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.12-23.18.04:329][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94688368, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.06.12-23.18.04:331][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027c94127a00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.06.12-23.18.04:335][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.06.12-23.18.04:336][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2018.06.12-19.18.04
+[2018.06.12-23.18.04:336][  0]LogWorld: Bringing up level for play took: 0.000502
+[2018.06.12-23.18.04:337][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.06.12-23.18.04:341][  0]LogLoad: Took 0.100469 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.06.12-23.18.04:404][  0]LogLoad: (Engine Initialization) Total time: 12.26 seconds
+[2018.06.12-23.18.04:404][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.12-23.18.04:470][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.06.12-23.18.04:524][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.12-23.18.04:528][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.12-23.18.11:804][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-23.18.11:875][449]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.12-23.18.16:418][731]LogNetVersion: Quake 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1278608)
+[2018.06.12-23.18.16:426][731]LogInit: WinSock: I am Robs-Blade (192.168.86.34:0)
+[2018.06.12-23.18.16:587][731]LogPackageName: SearchForPackageOnDisk took   0.132s to resolve Lobby.umap.
+[2018.06.12-23.18.16:712][731]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve Lobby.umap.
+[2018.06.12-23.18.16:712][731]LogNet: Browse: /Game/Maps/Lobby?listen
+[2018.06.12-23.18.16:712][731]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2018.06.12-23.18.16:726][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94127a00, Size=688
+[2018.06.12-23.18.16:726][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94688368, Size=52
+[2018.06.12-23.18.16:726][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c946897f8, Size=52
+[2018.06.12-23.18.16:726][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9405b400, Size=688
+[2018.06.12-23.18.16:727][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9484c520, Size=32
+[2018.06.12-23.18.16:727][731]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9484d1a0, Size=32
+[2018.06.12-23.18.16:840][731]LogAIModule: Creating AISystem for world Lobby
+[2018.06.12-23.18.16:841][731]LogLoad: Game class is 'LobbyGM_C'
+[2018.06.12-23.18.16:841][731]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.12-23.18.16:841][731]LogTemp: Display: ParseSettings for SteamNetDriver_0
+[2018.06.12-23.18.16:841][731]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.06.12-23.18.16:841][731]LogNet: Display: SteamNetDriver_0 bound to port 7777
+[2018.06.12-23.18.16:841][731]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.06.12-23.18.16:842][731]LogNet: GameNetDriver SteamNetDriver_0 IpNetDriver listening on port 7777
+[2018.06.12-23.18.16:844][731]LogWorld: Bringing World /Game/Maps/Lobby.Lobby up for play (max tick rate 0) at 2018.06.12-19.18.16
+[2018.06.12-23.18.16:844][731]LogWorld: Bringing up level for play took: 0.002129
+[2018.06.12-23.18.16:863][731]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.12-23.18.16:863][731]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.12-23.18.16:863][731]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.12-23.18.16:864][731]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.12-23.18.16:867][731]LogLoad: Took 0.154345 seconds to LoadMap(/Game/Maps/Lobby)
+[2018.06.12-23.18.21:789][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-23.18.28:908][475]PIE: Warning: This widget does not support focus.  If this is a UserWidget, you should set bIsFocusable to true.
+[2018.06.12-23.18.29:569][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-23.18.42:713][283]LogSlate: Window 'Quake (64-bit, PCD3D_SM5) ' being destroyed
+[2018.06.12-23.18.42:714][283]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.12-23.18.42:716][283]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.12-23.18.42:718][283]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2018.06.12-23.18.42:719][283]LogEngine: All Windows Closed
+[2018.06.12-23.18.42:719][283]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.06.12-23.18.42:735][284]LogNet: World NetDriver shutdown SteamNetDriver_0 [GameNetDriver]
+[2018.06.12-23.18.42:735][284]LogNet: DestroyNamedNetDriver SteamNetDriver_0 [GameNetDriver]
+[2018.06.12-23.18.42:735][284]LogExit: GameNetDriver SteamNetDriver_0 shut down
+[2018.06.12-23.18.43:661][284]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.12-23.18.43:662][284]LogExit: Preparing to exit.
+[2018.06.12-23.18.43:662][284]LogMoviePlayer: Shutting down movie player
+[2018.06.12-23.18.44:544][284]LogExit: Game engine shut down
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c901ab4c0, Size=64
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c901a1300, Size=256
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c901b2480, Size=536
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9016e200, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9016d300, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9016ca00, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94058a00, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90084d00, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90084700, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90043d00, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90043400, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c90042b00, Size=688
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8ffbeac0, Size=80
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c901e9440, Size=320
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c902169f8, Size=4
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c8ffc8940, Size=192
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9484a0c0, Size=80
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c901e8f40, Size=320
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c947f9600, Size=880
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c900caa70, Size=40
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94766b70, Size=104
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c947b8720, Size=32
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c901e8a40, Size=304
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c947c4b80, Size=592
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c9019e320, Size=224
+[2018.06.12-23.18.44:548][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027c94705280, Size=784
+[2018.06.12-23.18.44:608][284]LogExit: Object subsystem successfully closed.
+[2018.06.12-23.18.44:634][284]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.12-23.18.44:637][284]LogD3D11RHI: Shutdown
+[2018.06.12-23.18.44:637][284]LogD3D11RHI: CleanupD3DDevice
+[2018.06.12-23.18.44:638][284]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (334)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module SequenceRecorder (332)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module AutomationController (330)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module AutomationWorker (328)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module AIModule (326)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module GameplayDebugger (325)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module AITestSuite (323)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (320)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (318)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (316)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (314)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module CharacterAI (312)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module SessionServices (310)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (308)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (306)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module MovieScene (304)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module GeometryCache (302)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (301)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (298)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module PortalServices (296)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module PortalRpc (294)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module MessagingRpc (292)
+[2018.06.12-23.18.44:648][284]LogModuleManager: Shutting down and abandoning module ProfilerService (290)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module TaskGraph (288)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module SteamVRController (286)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (284)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module OculusInput (282)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (280)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (278)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module CableComponent (276)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module AudioCapture (274)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (272)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module AndroidPermission (270)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (266)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (264)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module MediaCompositing (262)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module LinearTimecode (260)
+[2018.06.12-23.18.44:660][284]LogModuleManager: Shutting down and abandoning module ImgMedia (258)
+[2018.06.12-23.18.44:663][284]LogModuleManager: Shutting down and abandoning module HTML5Networking (256)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module DatasmithContent (254)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (252)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module CryptoKeys (250)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (248)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2018.06.12-23.18.44:664][284]LogDirectoryWatcher: A directory notification for 'C:/Users/Rob's Blade/Documents/Unreal Projects/Quake/Binaries/Win64' was aborted.
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (246)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (242)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module UObjectPlugin (240)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (238)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (236)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module SourceControl (235)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (232)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (230)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (228)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module PhysXVehicles (226)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (224)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (222)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (220)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module ActorSequence (218)
+[2018.06.12-23.18.44:664][284]LogModuleManager: Shutting down and abandoning module UdpMessaging (216)
+[2018.06.12-23.18.44:766][284]LogModuleManager: Shutting down and abandoning module TcpMessaging (214)
+[2018.06.12-23.18.45:463][284]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (212)
+[2018.06.12-23.18.45:463][284]LogModuleManager: Shutting down and abandoning module FacialAnimation (210)
+[2018.06.12-23.18.45:463][284]LogModuleManager: Shutting down and abandoning module DataValidation (208)
+[2018.06.12-23.18.45:463][284]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (206)
+[2018.06.12-23.18.45:463][284]LogModuleManager: Shutting down and abandoning module TreeMap (205)
+[2018.06.12-23.18.45:463][284]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (202)
+[2018.06.12-23.18.45:463][284]LogModuleManager: Shutting down and abandoning module LiveLink (200)
