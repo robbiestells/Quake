@@ -11259,30 +11259,3 @@ Script call stack:
 [2018.06.13-01.51.43:112][419]LogExit: Preparing to exit.
 [2018.06.13-01.51.43:558][419]LogDirectoryWatcher: A directory notification for 'C:/Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/' was aborted.
 [2018.06.13-01.51.43:562][419]LogWindows: Windows GetLastError: The operation completed successfully. (0)
-[2018.06.13-01.51.44:536][419]LogWindows: Error: === Critical error: ===
-[2018.06.13-01.51.44:536][419]LogWindows: Error: 
-[2018.06.13-01.51.44:536][419]LogWindows: Error: Assertion failed: !HasAnyFlags(RF_NeedLoad|RF_NeedPostLoad) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectLinker.cpp] [Line: 105] 
-[2018.06.13-01.51.44:536][419]LogWindows: Error: Detaching from existing linker for ../../../../../../Users/Rob's Blade/Documents/Unreal Projects/Quake/Content/UI/MainMenu/ServerMenu.uasset while object ButtonSlot /Game/UI/MainMenu/ServerMenu.WidgetArchetype:WidgetTree_0.ToggleLeft.ButtonSlot_0 needs loaded
-[2018.06.13-01.51.44:536][419]LogWindows: Error: 
-[2018.06.13-01.51.44:536][419]LogWindows: Error: 
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x00000000BD75F218 KERNELBASE.dll!UnknownFunction []
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x00000000A69C7884 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x0000000087BA6D9B UE4Editor-Core.dll!UnknownFunction []
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x0000000087AE1949 UE4Editor-Core.dll!UnknownFunction []
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x00000000833DB498 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x00000000832675DA UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x00000000832DD41A UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.06.13-01.51.44:536][419]LogWindows: Error: [Callstack] 0x00000000832DF96F UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x0000000083322713 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000008315A7F7 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000003EC81955 UE4Editor.exe!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000003EC817B3 UE4Editor.exe!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000003EC860F1 UE4Editor.exe!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000003EC86C05 UE4Editor.exe!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000003EC86C4A UE4Editor.exe!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000003EC94177 UE4Editor.exe!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x000000003EC95B87 UE4Editor.exe!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x00000000BE063034 KERNEL32.DLL!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x00000000C06A1551 ntdll.dll!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: [Callstack] 0x00000000C06A1551 ntdll.dll!UnknownFunction []
-[2018.06.13-01.51.44:537][419]LogWindows: Error: 
